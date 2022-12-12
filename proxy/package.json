@@ -38,7 +38,7 @@
     "@material-ui/icons": "^4.9.1",
     "chart.js": "^2.9.3",
     "cors": "^2.8.5",
-    "express": "^4.15.0",
+    "express": "^4.17.3",
     "jest": "^25.1.0",
     "jest-environment-enzyme": "^7.1.2",
     "jest-enzyme": "^7.1.2",
